@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Architects+Daughter&family=Roboto:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.headsocial{
+    background-color: #E5E5E5;
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.headsocial i{
+    margin: 0 8px; 
+}
+
+.brandName{
+    background-color: black;
+    color: white;
+    height: 100px;
+    font-family:'Architects Daughter', cursive;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainNav{
+    padding: 5px;
+    background-color: #467EB2;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#banner img{
+    width: 100%;
+}
