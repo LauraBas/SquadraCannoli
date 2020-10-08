@@ -1,0 +1,11 @@
+.productos {
+    margin: auto;
+    width: 80%;
+    display: flex;
+}
+
+.boxProduct {
+    width: 30%;
+    height: 200px;
+    border: 1px solid black;
+}
