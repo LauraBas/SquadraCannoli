@@ -1,8 +1,8 @@
-/* Objetos del DOM */
+
 const cartText = document.querySelector('#cartText');
 const cartPlus = document.querySelectorAll('.agregarProducto');
 
-/* Variables */
+
 let contadorProductos = 0;
 
 function AgregarProducto() {

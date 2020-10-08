@@ -24,6 +24,9 @@
 .agregarProducto{
     text-align: right;
 }
+.agregarProducto:hover{
+    color: blue;
+}
 .productName{
     font-weight: bolder;
 }
