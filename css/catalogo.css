@@ -1,11 +1,29 @@
 .productos {
     margin: auto;
-    width: 80%;
+    width: 90%;
     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .boxProduct {
-    width: 30%;
-    height: 200px;
+    width: 150px;
+    height: auto;
     border: 1px solid black;
+   
+}
+
+.imgProduct img{
+    width: 100%;
+
+
+}
+.agregarProducto{
+    text-align: right;
+}
+.productName{
+    font-weight: bolder;
+}
+.productPrice{
+    align;
 }
